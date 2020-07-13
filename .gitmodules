@@ -1,0 +1,3 @@
+[submodule "一/二/目标"]
+	path = 一/二/目标
+	url = https://github.com/ZHAIXINGZHAIYUE/scalable_softmax_loss_for_fv
